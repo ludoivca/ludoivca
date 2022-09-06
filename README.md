@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+:sunglasses: I'm a Master Degree Student in Marketing Analytics
+🌱 I’m currently learning new programming languages : R and python! 
+⚡ Fun fact: recently moved to the Netherlands 
 <!--
 **ludoivca/ludoivca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
