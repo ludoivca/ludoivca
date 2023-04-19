@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning new programming languages : R and python! 
 
-⚡ Hobbies: boardgames geek
+⚡ Hobbies: boardgames geek / squash
 
 
 <!--
